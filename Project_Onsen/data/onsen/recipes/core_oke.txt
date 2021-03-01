@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "W W",
+        "SSS"
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:planks"
+        },
+        "S": {
+            "item": "minecraft:slab"
+        }
+    },
+    "result": {
+        "item": "minecraft:mojang_banner_pattern"
+    }
+}

@@ -1,0 +1,1 @@
+give @s poisonous_potato{display:{Name:'{"text":"串刺しの生の鶏肉"}'},CustomModelData:1} 1

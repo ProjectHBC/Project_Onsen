@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "W W",
+        "SSS"
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:dark_oak_planks"
+        },
+        "S": {
+            "item": "minecraft:dark_oak_slab"
+        }
+    },
+    "result": {
+        "item": "minecraft:mojang_banner_pattern"
+    }
+}

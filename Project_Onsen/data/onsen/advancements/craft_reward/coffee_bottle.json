@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "onsen:coffee_bottle"
+      }
+    }
+  },
+  "rewards": {
+    "function": "onsen:craft/coffee_bottle"
+  }
+}

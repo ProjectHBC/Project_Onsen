@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "W W",
+        "SSS"
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:jungle_planks"
+        },
+        "S": {
+            "item": "minecraft:jungle_slab"
+        }
+    },
+    "result": {
+        "item": "minecraft:mojang_banner_pattern"
+    },
+    "group": "oke_group"
+}

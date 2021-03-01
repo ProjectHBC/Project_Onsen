@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "onsen:bir_oke"
+      }
+    }
+  },
+  "rewards": {
+    "function": "onsen:craft/oke"
+  }
+}

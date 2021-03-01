@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "onsen:milk_bottle"
+      }
+    }
+  },
+  "rewards": {
+    "function": "onsen:craft/milk_bottle"
+  }
+}

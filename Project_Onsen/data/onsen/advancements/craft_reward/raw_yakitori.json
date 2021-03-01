@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "onsen:raw_yakitori"
+      }
+    }
+  },
+  "rewards": {
+    "function": "onsen:craft/raw_yakitori"
+  }
+}

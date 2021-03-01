@@ -1,0 +1,20 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "  C",
+        " C ",
+        "B  "
+    ],
+    "key": {
+        "C": {
+            "item": "minecraft:chicken"
+        },
+        "B": {
+            "item": "minecraft:bone"
+        }
+    },
+    "result": {
+        "item": "minecraft:mojang_banner_pattern",
+        "count": 2
+    }
+}

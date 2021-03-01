@@ -1,0 +1,1 @@
+give @s minecraft:potion{display:{Name:'{"text":"コーヒー牛乳"}'},CustomModelData:2} 1

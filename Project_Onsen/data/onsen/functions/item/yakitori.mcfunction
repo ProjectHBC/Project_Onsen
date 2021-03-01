@@ -1,0 +1,1 @@
+give @s cooked_beef{display:{Name:'{"text":"串刺しの焼き鳥"}'},CustomModelData:1} 1
