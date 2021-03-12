@@ -1,23 +1,19 @@
 {
     "display": {
-        "title": "test",
-        "description": "テスト",
+        "title": "温泉レシピ",
+        "description": "温泉のレシピを確認",
         "icon": {
             "item": "minecraft:mojang_banner_pattern"
         },
     "background": "minecraft:textures/block/quartz_block_top.png",
-    "frame": "task"
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
     },
     "criteria": {
-        "getDiamondBlock": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                    "item": "minecraft:diamond_block"
-                    }
-                ]
+        "start": {
+            "trigger": "impossible"
             }
     }
-}
 }
