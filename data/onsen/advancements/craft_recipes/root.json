@@ -15,8 +15,5 @@
         "start": {
             "trigger": "impossible"
             }
-    },
-    "rewards": {
-        "function": ":onsen:craft_recipes/root"
-      }
+    }
 }
