@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": "test",
+        "description": "テスト",
+        "icon": {
+            "item": "minecraft:mojang_banner_pattern"
+        },
+    "background": "minecraft:textures/block/quartz_block_top.png",
+    "frame": "task"
+    },
+    "criteria": {
+        "getDiamondBlock": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                    "item": "minecraft:diamond_block"
+                    }
+                ]
+            }
+    }
+}
+}
