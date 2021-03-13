@@ -1,1 +1,0 @@
-advancement grant @a from onsen:craft_recipes/root
