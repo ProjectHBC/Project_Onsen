@@ -1,10 +1,10 @@
 {
-    "parent": "onsen:craft_recipes/towel_recipe",
+    "parent": "onsen:craft_recipes/verβ0_1_0",
     "display": {
-        "title": "桶",
-        "description": "W W\nHHH\n\nW = 各種木材\nH = 各種木材ハーフ",
+        "title": "タオル",
+        "description": "LW\n\nL = 革\nH = 白色の染料",
         "icon": {
-            "item": "minecraft:bucket",
+            "item": "minecraft:leather_helmet",
             "nbt": "{CustomModelData:1}"
         },
     "frame": "task",
