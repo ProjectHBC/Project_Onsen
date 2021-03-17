@@ -1,0 +1,15 @@
+{
+    "criteria": {
+        "check": {
+            "trigger": "minecraft:filled_bucket",
+            "conditions": {
+                "item": {
+                    "item": "minecraft:water_bucket"
+                }
+            }
+        }
+    },
+    "rewards": {
+      "function": "onsen:item/water_oke"
+    }
+}
