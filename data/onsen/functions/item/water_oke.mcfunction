@@ -1,1 +1,1 @@
-give @s minecraft:water_bucket{display:{Name:'{"text":"水入り桶"}'},CustomModelData:1} 1
+give @s minecraft:water_bucket{display:{Name:'{"text":"水入り桶"}'},CustomModelData:1,oke:2} 1
