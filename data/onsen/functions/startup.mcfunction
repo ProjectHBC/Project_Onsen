@@ -8,4 +8,4 @@ tellraw @a {"text": ""}
 tellraw @a [{"text": "created by ","color": "blue"},{"text": "iruru1111","color": "aqua","underlined": true,"clickEvent": {"action": "open_url","value":"https://twitter.com/iruru1111"}}]
 tellraw @a {"text": "~~~~~~~~~~~~~~~~~~~~~~~~~","color": "gray"}
 
-function onsen:cmd/recipes_release
+function onsen:buildup

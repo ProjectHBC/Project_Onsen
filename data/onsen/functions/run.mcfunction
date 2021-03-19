@@ -1,4 +1,3 @@
 #常時実行
-
-#桶のチェック
-#execute as @a[nbt={SelectedItem:{tag:{oke:1}}}] at @s run say test
+scoreboard players set @a oke 0
+execute as @a[scores={oke=1},nbt={SelectedItem:{tag:{oke:1}}}] at @s run function onsen:actions/oke_action
