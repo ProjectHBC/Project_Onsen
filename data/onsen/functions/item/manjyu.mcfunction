@@ -1,0 +1,1 @@
+give @s tropical_fish{display:{Name:'{"text":"温泉饅頭"}'},CustomModelData:1} 1

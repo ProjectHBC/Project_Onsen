@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:wheat"
+        },
+        {
+            "item": "minecraft:wheat"
+        },
+        {
+            "item": "minecraft:sugar"
+        },
+        {
+            "item": "minecraft:cocoa_beans"
+        }
+    ],
+    "result": {
+        "item": "minecraft:mojang_banner_pattern",
+        "count": 4
+    }
+}
