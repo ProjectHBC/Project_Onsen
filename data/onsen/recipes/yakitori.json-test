@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:##smelting##",
+    "ingredient": {
+            "item": "minecraft:poisonous_potato"
+    },
+    "result": "minecraft:mojang_banner_pattern",
+    "experience": 0.35,
+    "cookingtime": 200
+}
