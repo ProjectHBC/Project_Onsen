@@ -1,4 +1,4 @@
-#水入り桶の削除
+#水入りバケツの削除
 clear @s water_bucket 1
 
 #water_okeの入手
