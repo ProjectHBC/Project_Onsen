@@ -1,1 +1,1 @@
-give @s minecraft:potion{display:{Name:'{"text":"コーヒー牛乳"}'},CustomModelData:2} 1
+give @s minecraft:potion{HideFlags:32,display:{Name:'{"text":"コーヒー牛乳"}'},CustomModelData:2,CustomPotionEffects:[{Id:10,Amplifier:4,Duration:40},{Id:25,Amplifier:0,Duration:100}]} 1

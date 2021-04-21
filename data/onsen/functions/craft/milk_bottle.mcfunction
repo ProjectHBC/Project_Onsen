@@ -8,4 +8,4 @@ recipe take @s onsen:milk_bottle
 clear @s mojang_banner_pattern 1
 
 #進捗削除
-advancement revoke @s only onsen:craft_reward/towel
+advancement revoke @s only onsen:craft_reward/milk_bottle

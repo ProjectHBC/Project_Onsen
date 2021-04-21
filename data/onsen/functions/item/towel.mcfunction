@@ -1,1 +1,1 @@
-give @s minecraft:leather_helmet{display:{Name:'{"text":"タオル"}',color:16777215},CustomModelData:1} 1
+give @s minecraft:chainmail_helmet{display:{Name:'{"text":"タオル"}'},CustomModelData:1} 1
