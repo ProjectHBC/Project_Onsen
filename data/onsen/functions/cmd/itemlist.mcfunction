@@ -1,5 +1,7 @@
 #入手可能なアイテムを表示
 
+tellraw @s {"text": "This is prototype menu. That's so, these may be a lot of bags."}
+
 #tellraw @s [{"text": "ITEM","color": "yellow","clickEvent": {"action": "suggest_command","value":"/function onsen:item/ITEM"}},{"text": "ITEM","color": "yellow","clickEvent": {"action": "suggest_command","value":"/function onsen:item/ITEM"}},{"text": "ITEM","color": "yellow","clickEvent": {"action": "suggest_command","value":"/function onsen:item/ITEM"}}]
 tellraw @s {"text": "~~~~~~~~~~~~~~~~~~~~~~~~~","color": "gray"}
 tellraw @s [{"text": "タオル","color": "yellow","clickEvent": {"action": "suggest_command","value":"/function onsen:item/towel"}},{"text": "桶","color": "yellow","clickEvent": {"action": "suggest_command","value":"/function onsen:item/oke"}},{"text": "水入り桶","color": "yellow","clickEvent": {"action": "suggest_command","value":"/function onsen:item/water_oke"}}]
