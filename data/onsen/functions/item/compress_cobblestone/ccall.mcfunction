@@ -1,0 +1,10 @@
+function onsen:item/compress_cobblestone/cc1
+function onsen:item/compress_cobblestone/cc2
+function onsen:item/compress_cobblestone/cc3
+function onsen:item/compress_cobblestone/cc4
+function onsen:item/compress_cobblestone/cc5
+function onsen:item/compress_cobblestone/cc6
+function onsen:item/compress_cobblestone/cc7
+function onsen:item/compress_cobblestone/cc8
+function onsen:item/compress_cobblestone/cc9
+function onsen:item/compress_cobblestone/cc10
