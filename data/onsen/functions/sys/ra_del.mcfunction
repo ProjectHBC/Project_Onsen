@@ -11,7 +11,7 @@ recipe take @a onsen:towel
 recipe take @a onsen:milk_bottle
 recipe take @a onsen:coffee_bottle
 recipe take @a onsen:raw_yakitori
-recipe take @a onsen:yakitori
+##recipe take @a onsen:yakitori
 recipe take @a onsen:manjyu
 
 #進捗削除

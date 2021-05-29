@@ -1,5 +1,5 @@
 {
-    "type": "crafting_shapeless",
+    "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {
             "item": "minecraft:bone"
@@ -12,7 +12,7 @@
         }
     ],
     "result": {
-        "item": "minecraft:mojang_banner_pattern",
+        "item": "minecraft:bone_block",
         "count": 1
     }
 }
