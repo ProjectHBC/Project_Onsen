@@ -1,0 +1,1 @@
+give @s apple{CustomModelData:1,display:{Name:'{"text":"温泉卵","italic":false}'}} 1
